@@ -1,0 +1,17 @@
+/* tag selector  */
+h2 {
+    color: blue;
+}
+p {
+    color: navy;
+}
+
+/* class selector  */
+.artikel2 {
+    color: red;
+}
+
+/* id selector  */
+#artikel3 {
+    color: yellow;
+}

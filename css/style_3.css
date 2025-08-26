@@ -1,0 +1,10 @@
+/* grouping selector  */
+
+/* h2, p {
+    color: blue;
+} */
+
+.judul, .isi {
+    color: red;
+    text-align: center;
+}
