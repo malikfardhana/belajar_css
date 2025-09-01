@@ -1,0 +1,13 @@
+.capital {
+    text-transform: capitalize;
+}
+/* setiap awal kata menjadi huruf kapital */
+
+.uppercase {
+    text-transform: uppercase;
+}
+/* huruf menjadi kapital full  */
+
+.lowercase {
+    text-transform: lowercase;
+}

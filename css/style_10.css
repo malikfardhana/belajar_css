@@ -1,0 +1,9 @@
+.p1 {
+    line-height: 30px;
+}
+/* mengatur jarak antar baris  */
+
+.p2 {
+    text-indent: 30px;
+}
+/* membuat baris pertama paragraf menjorok ke depan  */

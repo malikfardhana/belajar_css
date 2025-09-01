@@ -1,0 +1,16 @@
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* jika tdk ada arial di device adlah helvetica lalu sanserif adalah jenis font */
+
+.p2 {
+    font-size: 24px;
+}
+
+.p3 {
+    font-weight: bold;
+}
+
+.p4 {
+    font-style: italic;
+}
