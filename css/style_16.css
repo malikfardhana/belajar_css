@@ -1,0 +1,17 @@
+body {
+    /* background-color: rgb(212, 186, 37); */
+    background-image: url(../gambar/aerial-drone-view-blue-mosque-istanbul-sunset-turkey.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    width: 450px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    background-image: url(../gambar/beautiful-rainbow-nature.jpg);
+    background-size: cover;
+}

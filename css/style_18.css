@@ -1,0 +1,13 @@
+input, a {
+    display: block;
+    margin-top: 5px;
+    /* agar display input text kebawah tidak kesamping  */
+}
+
+ul li {
+    display: inline-block;
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+    margin-top: 30px;
+}

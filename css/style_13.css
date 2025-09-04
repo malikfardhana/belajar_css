@@ -1,0 +1,19 @@
+/* hr {
+    border-width: 5px;
+    border-style: double; 
+    border-color: blue;
+} */
+ /* bisa juga  */
+
+ hr {
+    border: 5px solid blueviolet;
+ }
+
+ .lv {
+    width: 200px;
+    height: 200px;
+    border-left-style: solid ;
+    border-top-style: double;
+    border-right-style: dashed;
+    border-bottom-style: dotted;
+ }

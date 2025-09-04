@@ -1,0 +1,26 @@
+/* .kotak {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    margin: auto;
+    border-radius: 20px;
+} */
+.kotak {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    margin: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 100px;
+    border-top-right-radius: 80px;
+}
+
+.kotak2 {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    margin: auto;
+    border-radius: 20px 60px;
+}
+/* bisa juga pakai persen  */
