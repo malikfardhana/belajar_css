@@ -1,0 +1,22 @@
+table {
+    margin: 50px auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+table th {
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+table td {
+    padding: 10px;
+    border: 1px solid teal;
+    /* border-top: 1px solid teal; */
+}
+
+table tr:nth-child(even) {
+    background-color: peachpuff
+}
