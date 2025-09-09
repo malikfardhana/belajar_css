@@ -1,0 +1,17 @@
+.kotak {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin: 200px auto;
+    /* transform: rotate(45deg); */
+    transition: 1s;
+    /* untuk melambatkan efek transform  */
+}
+
+.kotak:hover {
+    /* transform: rotate(45deg); */
+    /* transform: scale(2);  kotak nge zoom*/
+    /* transform: translate(50px); kotak bergeser  */
+    /* transform: translate(50px, 20px); */
+    transform: skew(20deg);
+}

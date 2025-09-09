@@ -1,0 +1,60 @@
+.animation {
+    width: 300px;
+    height: 70px;
+    background-color: green;
+    margin: 30px;
+
+    /* animation-name: warna;
+    animation-duration: 5s;
+
+    animation-timing-function: linear;
+    animation-iteration-count: 3;
+    animation-direction: reverse; */
+
+    animation: warna 5s linear 3 reverse;
+}
+@keyframes warna {
+    0% {
+        background-color: red;
+        width: 100px;
+    }
+    30% {
+        background-color: blue;
+        width: 300px;
+    }
+    80% {
+        background-color: yellow;
+        width: 500px;
+    }
+    100% {
+        background-color: black;
+        width: 1000px;
+    }
+}
+
+
+.container {
+    width: 200px;
+    height: 20px;
+    background-color: #ddd;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+.loader {
+    width:10%;
+    height: 100%;
+    background-color: aqua;
+    border-radius: 10px;
+
+    animation: loader 2s linear infinite reverse;
+}
+
+@keyframes loader {
+    0% {
+        width: 10px;
+    }
+    50% {
+        width: 100px;
+    }
+}
