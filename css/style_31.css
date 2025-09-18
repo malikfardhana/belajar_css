@@ -1,0 +1,8 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    margin: 50px auto;
+    /* box-shadow: x y blur spread color*/
+    box-shadow: 10px 10px 30px 10px blue;
+}
