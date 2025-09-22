@@ -1,0 +1,40 @@
+body {
+    background-color: #d6edff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.con-fontawesome {
+    width: 800px;
+    margin: 30px auto;
+    /* border: 2px solid black; */
+    display: flex;  
+    flex-wrap: wrap;
+}
+
+.box-icon {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 5px;
+    color: navy;
+}
+
+.fas, .fab {
+   font-size: 30px;
+   /* color: #183153;  */
+   margin-top: 20px;
+}
+
+.text-icon {
+    margin-top: 20px;
+    /* color: navy; */
+}
+
+.box-icon:hover {
+    background-color: gold;
+    color: white;
+}
